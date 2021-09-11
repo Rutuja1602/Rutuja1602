@@ -1,7 +1,7 @@
-### Hi 👋, I'm Rutuja Patil
 
 
 <Hi 👋, I'm Rutuja Patil
+
 Passionate about learning new skills !
 
 
