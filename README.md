@@ -1,8 +1,8 @@
-Rutuja-Patil/README.md
 
-<                             Hi 👋, I'm Rutuja Patil
 
-                        Passionate about learning new skills !
+<                       Hi 👋, I'm Rutuja Patil
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+						Passionate about learning new skills !
 
 
 - 🔭 I’m currently working on Data Science and Machine Learning projects
